@@ -2,7 +2,7 @@ package org.example.demo3 ;
 import java.sql.*;
 
 public class DatabaseManager {
-private static final String DB_URL = "jdbc:maysql://localhost:3306/examblanc" ;
+private static final String DB_URL = "jdbc:mysql://localhost:3306/examblanc" ;
 private static final String DB_USER = "Sara Slimani " ;
 private static final String DB_PASSWORD = "Saraslim123?" ;
 

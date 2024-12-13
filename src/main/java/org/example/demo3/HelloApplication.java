@@ -1,3 +1,5 @@
+package org.example.demo3;
+
 import javafx.application.Application;
 import javafx.geometry.Insets;
 import javafx.geometry.Pos;
@@ -9,6 +11,7 @@ import javafx.scene.layout.GridPane;
 import javafx.scene.layout.VBox;
 import javafx.scene.text.Text;
 import javafx.stage.Stage;
+import org.example.demo3.DatabaseManager;
 
 public class HelloApplication extends Application {
 
